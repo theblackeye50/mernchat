@@ -7,7 +7,7 @@ This project provides a seamless messaging experience with secure authentication
 🔐 Authentication – Secure login and registration with password hashing.
 🟢 Online Status Tracking – See who’s active in real time.
 📦 Scalable Storage – MongoDB for handling large volumes of chat data.
-##Tech Stack
+## Tech Stack
 Frontend: React, Tailwind CSS (or your chosen styling library)
 Backend: Node.js, Express.js
 Database: MongoDB (Mongoose ODM)
